@@ -1,0 +1,12 @@
+ //$this->template->title=__('Login');
+             //   if(isset($_POST['submit'])){
+                //if (Auth::instance()->logged_in()) {
+                //    echo 'zalogowany';
+                //    echo Auth::instance()->get_user();
+                //    if (Auth::instance()->logged_in('admin')) {
+                //    echo 'to jest admin';
+                //   }
+                //}
+                // else {
+                //    echo "User is not logged in";
+                //}
